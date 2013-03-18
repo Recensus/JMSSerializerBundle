@@ -34,10 +34,5 @@
         "psr-0": { "JMS\\SerializerBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "JMS/SerializerBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.12-dev"
-        }
-    }
+    "target-dir": "JMS/SerializerBundle"
 }
